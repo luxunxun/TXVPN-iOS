@@ -14,4 +14,4 @@ TX VPN代理，当连接到公共wifi时，您的数据将被加密，您的在�
 # 下载链接
 
 * [官网下载](https://www.txvpnapp.com/shareios.html?type=appstore)
-* [App Store 下载](itms-apps://itunes.apple.com/app/id1456984674)
+* [App Store 下载](https://itunes.apple.com/app/id1456984674)
