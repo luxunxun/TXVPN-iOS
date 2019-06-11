@@ -1,6 +1,4 @@
 # [TXVPN-IOS](https://www.txvpnapp.com)
-TXVPN-iOS
-
 TX VPN代理，当连接到公共wifi时，您的数据将被加密，您的在线活动将保持隐私和安全。
 
 特点:更好的网络:
